@@ -124,7 +124,7 @@ main {
 
 
 .responsive-image {
-    max-width: 500px; /* Ajusta el ancho máximo como prefieras */
+    max-width: 400px; /* Ajusta el ancho máximo como prefieras */
     height: auto; /* Mantiene la proporción */
     display: block; /* Elimina problemas de alineación, asegurando que la imagen no tenga espacio extra abajo */
     margin: 0 auto; /* Centra la imagen si la sección está centrada */
